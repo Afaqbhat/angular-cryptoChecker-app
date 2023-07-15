@@ -1,0 +1,11 @@
+.logo{
+    height: 50px;
+    margin-right: 5px;
+}
+.mat-toolbar{
+    background-color: #3F869C;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
